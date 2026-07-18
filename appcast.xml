@@ -6,20 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SpeakEasy</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Sat, 18 Jul 2026 10:12:26 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <title>1.3.0</title>
+            <pubDate>Sat, 18 Jul 2026 19:33:08 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/emptystring-dev/speakeasy/releases/download/v1.2.0/SpeakEasy-1.2.0.zip" length="12880887" type="application/octet-stream" sparkle:edSignature="ViUZS6SNsyna6tFETuLkgho+rsS1O4ND4sbGRl4tw4wCpRXuicvWMOWuwb1Llbs2E6VgEYI6RKH5m/ExwF2dBQ=="/>
+            <enclosure url="https://github.com/emptystring-dev/speakeasy/releases/download/v1.3.0/SpeakEasy-1.3.0.zip" length="13358732" type="application/octet-stream" sparkle:edSignature="hXmsWVFoAtk2bbUQ/bfEvdENx6L/hZ5K4KuBdv6KbgdvJXllw009lyiPVutKH+s5PcJ4QBNHqFHhwXOQfo4wDg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/emptystring-dev/speakeasy/releases/download/v1.2.0/SpeakEasy5-4.delta" sparkle:deltaFrom="4" length="2506294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iyvwGA8DwiXYdYSgBpgXCss2XOJ32ML8Dozy0/7sPzzdBklE5MGVrlXnPLMA4qJlv8C4v8ZAEZ/5serdo1T7Aw=="/>
-                <enclosure url="https://github.com/emptystring-dev/speakeasy/releases/download/v1.2.0/SpeakEasy5-3.delta" sparkle:deltaFrom="3" length="3709502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZMwz4QATzuWk1KjMkPjqatj11aPhW2ddccLkKNmh0QZPVKFYgtvC2AyF13hZRrhsTFsahoEzkJkptldfESgdCQ=="/>
+                <enclosure url="https://github.com/emptystring-dev/speakeasy/releases/download/v1.3.0/SpeakEasy6-5.delta" sparkle:deltaFrom="5" length="2742558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7OHEo2TkeuWje6opHuvwnM/qgyxs6XfI3Cj5ORnAbvj/nsW9RVK4+gm82BM7J6RFXyznG9/q01qBWKx1SfA1Aw=="/>
+                <enclosure url="https://github.com/emptystring-dev/speakeasy/releases/download/v1.3.0/SpeakEasy6-4.delta" sparkle:deltaFrom="4" length="3876498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="APKci81yoBYi24J2q5Kg0A44VShL4uohEOtIpl11BE3iCsIoapA2PFqV4e/eFasPOIFIpJPnK447YOm0GoZBBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: urasSMW7e4FaIbbIjHERQycx6V/c9F/BpaAfGZil9aS+yE04uAXvVu0sOvjUpdxPp9tnCl4qLKiJEpGYdOwQBw==
+edSignature: Bo1Mr8X3jAPurPbA0yMrn3wSKmDrU7UMtTQjDyR+7luDT7OoSy3RY7kaXQ9z84YF4TemHPFTXHq5iWHmXx8rAg==
 length: 1921
 -->
